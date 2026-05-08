@@ -35,6 +35,14 @@ Currently working at Universitas Sebelas Maret, leading development of an enterp
 
 ## Featured Projects
 
+### [vue-ecommerce-store](https://github.com/hijrahassalam/vue-ecommerce-store)
+![Vue](https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel%20API-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white)
+
+Full-stack e-commerce: **Vue 3 + Tailwind CSS** frontend (Netlify) · **Laravel 13 REST API** (Railway) · **Neon PostgreSQL** · Stripe payments · [Live store ↗](https://vue-ecommerce-store-fe.netlify.app)
+
 ### [laravel-task-api](https://github.com/hijrahassalam/laravel-task-api)
 ![CI](https://github.com/hijrahassalam/laravel-task-api/actions/workflows/tests.yml/badge.svg)
 
