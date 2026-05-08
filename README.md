@@ -48,9 +48,6 @@ Full-stack e-commerce: **Vue 3 + Tailwind CSS** frontend (Netlify) · **Laravel 
 
 Production-ready REST API — Laravel 13 · Sanctum auth · Role-based access · 36 PHPUnit tests · Swagger docs · Docker · CI
 
-### [expense-approval-system](https://github.com/hijrahassalam/expense-approval-system)
-Full-stack expense approval system — Laravel 13 + Vue 3 · Multi-role auth (staff/manager/admin) · Approval workflow · CSV export · PostgreSQL
-
 ### [oet-learn.netlify.app](https://oet-learn.netlify.app)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 
