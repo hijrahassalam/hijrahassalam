@@ -1,69 +1,68 @@
-# Hi, I'm Hijrah Assalam 👋
+# Hi, I'm Hijrah Assalam
 
-**Senior Full-Stack PHP Developer** (Laravel/Vue.js) — building production systems that serve real users at scale.
+**AI Builder & Full-Stack Engineer** -- building production AI agent systems and full-stack platforms.
 
-Currently working at Universitas Sebelas Maret, leading development of an enterprise platform serving **3,500+ staff across 900+ organisational units**. Previously contributed to **Learn Quran**, a multi-platform product with **4M+ cumulative users**.
+Currently shipping **BundaGizi** ([bundagizi.com](https://bundagizi.com)) -- an AI-powered nutrition assistant on WhatsApp serving real users. Architect of the **Hermes Agent Ecosystem** -- 36 open-source libraries covering the full AI agent lifecycle.
 
-**Open to remote opportunities with EU/US teams.** Available for CET/CEST timezone overlap. Payments via Wise/Deel. B2B contract or employment.
+Previously built enterprise platforms serving **3,500+ users** at Universitas Sebelas Maret, and contributed to **Learn Quran** (4M+ cumulative users). Researching explainable AI for medical imaging.
+
+**Open to remote AI Engineering / Full-Stack roles worldwide.** Available for CET/CEST timezone overlap. Payments via Wise/Deel. B2B contract or employment.
 
 ---
 
-## Tech Stack
+## AI Agent Ecosystem
 
-**Backend**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=flat-square&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+**36 open-source libraries** covering the full AI agent lifecycle:
 
-**Frontend**
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**LLM Infrastructure (14):** cost-tracker, router, cache, failover, guard, middleware, batch, tracer, prompt-lab, model-registry, context-manager, structured-output, response-parser, ab-test
 
-**Data & DevOps**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+**Hermes Agent Platform (11):** tools, memory, RAG, kb-builder, eval, deploy, budget, preflight, replay, brand, desktop
 
-**Exploring**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**AI Agents & Apps (7):** ai-agent-loop, ECC, evonic, bug-bounty-agent, vps-security-agent, bunda-gizi-kb, bricky
+
+**ML/Research (4):** covid-cxr-gradcam (95.27% accuracy), image-classifier, telegram-llm-switcher, x-algorithm
 
 ---
 
 ## Featured Projects
 
-### [vue-ecommerce-store](https://github.com/hijrahassalam/vue-ecommerce-store)
-![Vue](https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel%20API-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white)
+### [BundaGizi](https://bundagizi.com) -- AI Nutrition Assistant
 
-Full-stack e-commerce: **Vue 3 + Tailwind CSS** frontend (Netlify) · **Laravel 13 REST API** (Railway) · **Neon PostgreSQL** · Stripe payments · [Live store ↗](https://vue-ecommerce-store-fe.netlify.app)
+AI-powered nutrition assistant on WhatsApp. Knowledge base of **1,146 Indonesian foods** with WHO standards. Multi-user onboarding, quota management, audit trail. Production deployment on Docker. **Live at [bundagizi.com](https://bundagizi.com)**
 
-### [laravel-task-api](https://github.com/hijrahassalam/laravel-task-api)
-![CI](https://github.com/hijrahassalam/laravel-task-api/actions/workflows/tests.yml/badge.svg)
+### [Hermes Agent Ecosystem](https://github.com/hijrahassalam?tab=repositories&q=hermes) -- 36 LLM Tools
 
-Production-ready REST API — Laravel 13 · Sanctum auth · Role-based access · 36 PHPUnit tests · Swagger docs · Docker · CI
+Zero-dependency JavaScript libraries for AI agents. Agent orchestration, memory, RAG, evaluation, safety guardrails, cost control, and infrastructure. Published as npm packages.
 
-### [oet-learn.netlify.app](https://oet-learn.netlify.app)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+### [covid-cxr-gradcam](https://github.com/hijrahassalam/covid-cxr-gradcam) -- Explainable Medical AI
 
-Free structured learning platform for healthcare professionals preparing for OET. Built with Astro · Vue.js · Tailwind CSS · Live site
+Three-class COVID-19 detection from chest X-ray using CNN + Grad-CAM. **95.27% test accuracy.** Explainable AI analysis uncovering shortcut learning.
 
-### [covid-cxr-gradcam](https://github.com/hijrahassalam/covid-cxr-gradcam)
-Three-class COVID-19 detection from chest X-ray using CNN + Grad-CAM · 95.27% test accuracy · Explainable AI analysis
+### [ECC](https://github.com/hijrahassalam/ECC) -- Agent Harness Optimization
+
+Performance optimization system for AI coding agents (Claude Code, Codex, Cursor). Improves agent execution efficiency.
+
+---
+
+## Tech Stack
+
+**AI & ML:** Python, TensorFlow, Node.js, LLM APIs
+
+**Backend:** PHP (Laravel), Go, REST API Design, Sanctum, PHPUnit
+
+**Frontend:** Vue.js (Composition API), Tailwind CSS, JavaScript (ES6+)
+
+**Data & DevOps:** MySQL, PostgreSQL, Docker, Google Cloud, GitHub Actions, CI/CD
 
 ---
 
 ## Connect
 
 [![Website](https://img.shields.io/badge/hijrahassalam.com-000?style=flat-square&logo=google-chrome&logoColor=white)](https://hijrahassalam.com)
+[![BundaGizi](https://img.shields.io/badge/bundagizi.com-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://bundagizi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hijrahassalam)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hijrahassalam@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@hijrahassalam.com)
 
 ---
 
-*_"Build clean systems, share knowledge, and keep learning endlessly."_*
+*_"Build AI agents that ship. Share knowledge. Keep learning endlessly."_*
